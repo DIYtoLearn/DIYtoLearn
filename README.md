@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Profile! </h1>
-<h3 align="center">A software fellow engineer trying to get a code above all!</h3>
+<h3 align="center">A fellow software engineer trying to get a code above all!</h3>
 
 - 🔭 Working as an **Exchange Administrator**
 - 🌱 I’m currently mastering **C/C++**
