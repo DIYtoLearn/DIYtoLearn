@@ -1,13 +1,29 @@
-<h1 align="center">Welcome to My Profile! </h1>
-<h3 align="center">A fellow software engineer trying to get a code above all!</h3>
+# 👋 Hey, I'm Upayan!
 
-- 🔭 Working as an **Exchange Administrator**
-- 🌱 I’m currently mastering **C/C++**
+**Technical Support Engineer** | Future Backend Developer  
+I'm turning my passion for coding into a profession — on a mission to become a skilled **backend developer**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/upayan-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/upayan-adhikary" height="30" width="40" /></a>
-</p>
+### 🚀 Tech Arsenal
+- 💻 **Languages:** C/C++, Java, SQL, PostgreSQL
+- 🛠️ **Tools:** Git, Postman, Docker, AWS
+- 🧠 **Database:** MongoDB, PostgreSQL
+- 🧰 **IDE:** VS Code
+- 🖥️ **OS:** Windows, Linux
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+### 🔄 Currently Working On:
+- DSA using C++
+- Java and Spring Boot backend development
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upayan)
+
+### 💻 Coding Profiles
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-27AE60?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/upayan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/gamersparadise0007/)
+
+### 📺 Coming Soon
+🎥 YouTube channel sharing my journey, struggles, and progress as I break into backend development.
+
+---
+
+_“One bug at a time, one step closer to my dream.”_
