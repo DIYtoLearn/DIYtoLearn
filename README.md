@@ -14,7 +14,7 @@
 - Java and Spring Boot backend development
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upayan-adhikary/)
 
 ### 💻 Coding Profiles
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-27AE60?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/upayan/)
