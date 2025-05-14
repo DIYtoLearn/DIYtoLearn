@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Upayan!
 
 **Technical Support Engineer** | Future Backend Developer  
-I'm turning my passion for coding into a profession — on a mission to become a skilled **backend developer**.
 
 ### 🚀 Tech Arsenal
 - 💻 **Languages:** C/C++, Java, SQL, PostgreSQL
