@@ -3,11 +3,12 @@
 **Technical Support Engineer** | Future Backend Developer  
 
 ### 🚀 Tech Arsenal
-- 💻 **Languages:** C/C++, Java, SQL, PostgreSQL
+- 💻 **Languages:** C/C++, Java
 - 🛠️ **Tools:** Git, Postman, Docker, AWS
-- 🧠 **Database:** MongoDB, PostgreSQL
-- 🧰 **IDE:** VS Code
+- 🧠 **Database:** MongoDB, PostgreSQL, MySQL, Redis
+- 🧰 **IDE:** VS Code, IntelliJ
 - 🖥️ **OS:** Windows, Linux
+- **Monitoring** Grafana, Opensearch
 
 ### 🔄 Currently Working On:
 - DSA using C++
