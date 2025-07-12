@@ -8,7 +8,7 @@
 - 🧠 **Database:** MongoDB, PostgreSQL, MySQL, Redis
 - 🧰 **IDE:** VS Code, IntelliJ
 - 🖥️ **OS:** Windows, Linux
-- **Monitoring** Grafana, Opensearch
+- ‼️ **Monitoring:** Grafana, Opensearch
 
 ### 🔄 Currently Working On:
 - DSA using C++
