@@ -4,7 +4,7 @@
 
 ### 🚀 Tech Arsenal
 - 💻 **Languages:** C/C++, Java
-- 🛠️ **Tools:** Git, Postman, Docker, AWS
+- 🛠️ **Tools:** Git, Postman, AWS, Docker, Jenkins
 - 🧠 **Database:** MongoDB, PostgreSQL, MySQL, Redis
 - 🧰 **IDE:** VS Code, IntelliJ
 - 🖥️ **OS:** Windows, Linux
