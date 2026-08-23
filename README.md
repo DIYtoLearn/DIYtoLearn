@@ -7,33 +7,13 @@ Building reliable backend systems, solving technical problems, and continuously 
 ## ⚡ Tech Stack
 
 **Languages**
-☕ Java • 🐚 Bash / Shell
-
-**Backend & APIs**
-REST APIs • JSON • Postman • API Testing & Debugging • Client-Server Architecture
+☕ Java • 🐚 A little of Bash / Shell • ➕Cpp
 
 **Databases**
 PostgreSQL • MySQL • Redis
 
-**Cloud & Infrastructure**
-AWS (EC2, S3, IAM) • Linux Server Administration • Networking Fundamentals
-
-**DevOps**
-Docker • Git • GitHub
-
-**Tools**
-IntelliJ IDEA • VS Code • Maven • Terminal / CLI
-
 **Operating Systems**
 Linux • Windows
-
-## 🌱 Currently Learning
-
-* Spring Boot
-* REST API Development
-* Backend System Design
-* Data Structures & Algorithms
-* Database Design & Optimization
 
 ## 🎯 Current Focus
 
